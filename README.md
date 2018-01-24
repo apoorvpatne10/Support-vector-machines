@@ -15,3 +15,5 @@ Objective of SVM consists of two terms. The first term is a regularizer, and the
 
 ## Initial Plot
 ![alt text](https://imgur.com/a/Zbktg)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Zbktg"><a href="//imgur.com/Zbktg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
