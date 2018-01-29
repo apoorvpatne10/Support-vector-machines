@@ -13,7 +13,7 @@ Hinge loss function is being used here for training classifiers. The hinge loss 
 ## Objective Function
 Objective of SVM consists of two terms. The first term is a regularizer, and the second term is the loss. The regularizer balances between margin maximization and loss. We want to find the decision surface that is maximally far away from any data points. We're going to use gradient descent to optimize the model.
 
-## Initial Plot
+## Initial Plot of 5 samples
 ![alt text](https://i.imgur.com/JtRyqTq.png)
 
 ## Plotting 2 test samples based on trained data
