@@ -15,3 +15,6 @@ Objective of SVM consists of two terms. The first term is a regularizer, and the
 
 ## Initial Plot
 ![alt text](https://i.imgur.com/JtRyqTq.png)
+
+## Plotting 2 test samples based on trained data
+![alt text](https://i.imgur.com/U8vVsym.png)
