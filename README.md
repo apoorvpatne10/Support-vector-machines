@@ -18,3 +18,7 @@ Objective of SVM consists of two terms. The first term is a regularizer, and the
 
 ## Plotting 2 test samples based on trained data
 ![alt text](https://i.imgur.com/U8vVsym.png)
+
+## Combining the above plots for a better visualization
+I added those 2 test samples. Plotted the hyperplane, the discriminator, that's trained on the training data and it classifies the training data and testing data precisely. Such that they all end up in the right side of the decision boundary so that they are correctly classified. 
+![alt text](https://i.imgur.com/QDP9mAD.png)
